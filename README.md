@@ -1,4 +1,12 @@
-Flat-UI-Gedit-Theme
+Flat UI Gedit Theme
 ===================
 
-Flat UI theme for gedit.
+Flat UI based gedit colour scheme for gedit.
+
+inspiration came from Jackson Gariety's toychest and decided to make one for gedit.
+
+# Screenshot
+
+![](http://d.pr/i/DnWN)
+
+
