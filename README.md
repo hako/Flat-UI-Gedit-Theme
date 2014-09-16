@@ -7,7 +7,7 @@ Inspiration came from [Jackson Gariety's](https://github.com/JacksonGariety) [to
 
 # Screenshot
 
-![](https://www.dropbox.com/s/50kllnalamgt47u/screenshot.tiff)
+![](./screenshot.tiff)
 
 Should support most languages.
 
